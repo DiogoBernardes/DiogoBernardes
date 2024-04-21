@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <tr>
 <td width="50%">
   <p align="center">
-    <a href="https://github.com/Kiran1689">
+    <a href="https://github.com/DiogoBernardes">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoBernardes&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
     </a>
   </p>
