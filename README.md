@@ -2,7 +2,7 @@
 <!--Start Intro-->               
 <p align="left">I'm Diogo Bernardes, I'm 23 years old and I have a strong interest in programming and computer systems. At the moment, I am attending the last year of my degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo, where I have had the opportunity to deepen my knowledge and skills in the area.
 
-I have a CTESP in Computer Systems Programming Technician, which provided me with a solid foundation to enter the degree. In addition, I consider myself a flexible, communicative, resilient person who likes to work in a team, always looking for new challenges and opportunities that allow me to grow in the area.
+I consider myself a flexible, communicative, resilient person who likes to work in a team, always looking for new challenges and opportunities that allow me to grow in the area.
 
 At the moment, my main goal is to finish my degree and in this way be able to improve my knowledge and skills in the area of Computer Engineering, so that in the near future I can apply them in the world of work. </p>
 <br>
