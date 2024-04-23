@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-
-  <!-- Primeira linha -->
+<h2 align="center">📊 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 📊</h2>
+<table align="center" width="100%">
+<tr>
+<td width="60%">
   <p align="center">
     <img width="50px" src="https://skillicons.dev/icons?i=py" />
     <img width="50px" src="https://skillicons.dev/icons?i=java" />
@@ -33,16 +32,16 @@ Here are some ideas to get you started:
     <img width="50px" src="https://skillicons.dev/icons?i=dotnet" />
     <img width="50px" src="https://skillicons.dev/icons?i=ts" />
     <img width="50px" src="https://skillicons.dev/icons?i=kotlin" />
+  </p>
+  <p align="center">
     <img width="50px" src="https://skillicons.dev/icons?i=nodejs" />
     <img width="50px" src="https://skillicons.dev/icons?i=php" />
     <img width="50px" src="https://skillicons.dev/icons?i=js" />
-  </p>
-
-  <!-- Segunda linha -->
-  <p align="center">
     <img width="50px" src="https://skillicons.dev/icons?i=html" />
     <img width="50px" src="https://skillicons.dev/icons?i=css" />
     <img width="50px" src="https://skillicons.dev/icons?i=bootstrap" />
+  </p>
+  <p align="center">
     <img width="50px" src="https://skillicons.dev/icons?i=postgres" />
     <img width="50px" src="https://skillicons.dev/icons?i=mysql" />
     <img width="50px" src="https://skillicons.dev/icons?i=prisma" />
@@ -50,20 +49,9 @@ Here are some ideas to get you started:
     <img width="50px" src="https://skillicons.dev/icons?i=docker" />
     <img width="50px" src="https://skillicons.dev/icons?i=postman" />
   </p>
-<br>
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-  <p align="center">
-    <a href="https://github.com/DiogoBernardes">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoBernardes&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-    </a>
-  </p>
 </td>
-<td width="50%">
+
+<td width="40%">
 <p align="center">
   <a href="https://github.com/DiogoBernardes">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBernardes&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
@@ -73,6 +61,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <br>
+
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -86,4 +75,3 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-<br/>
