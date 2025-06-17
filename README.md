@@ -1,10 +1,10 @@
 ### Hey!👋
 <!--Start Intro-->               
-<p align="left">I'm Diogo Bernardes, I'm 23 years old and I have a strong interest in programming and computer systems. At the moment, I am attending the last year of my degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo, where I have had the opportunity to deepen my knowledge and skills in the area.
+<p align="left">I'm Diogo Bernardes, I'm 24 years old and I have a strong interest in programming and computer systems. At the moment, I am working as Data Engineer, always focused on expanding my knowledge and skills. I believe that getting out of one's comfort zone is essential for progress, both personally and professionally.
+  
+I consider myself to be flexible, resilient, determined and communicative, with a love of teamwork. In every project I take part in, I try to give my best, maintaining an approach of continuous learning and constant evolution.
 
-I consider myself a flexible, communicative, resilient person who likes to work in a team, always looking for new challenges and opportunities that allow me to grow in the area.
-
-At the moment, my main goal is to finish my degree and in this way be able to improve my knowledge and skills in the area of Computer Engineering, so that in the near future I can apply them in the world of work. </p>
+</p>
 <br>
 <!--
 
